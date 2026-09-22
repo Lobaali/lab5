@@ -52,7 +52,7 @@ _Fill in as you complete each step — reference numbers from the course:_
 | lint job duration |48s |
 | test job duration |57s |
 | image-smoke — cold run | 2m 25s |
-| image-smoke — warm run (GHA cache) |2m 25s |
+| image-smoke — warm run (GHA cache) | 47s |
 | bad-pr blocked by branch protection? | yes |
 
 ## Day 3 — Lab 6 (Config, Secrets & Logs)
